@@ -1,0 +1,35 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.container{
+    margin-top: 50px;
+    width: auto;
+    border-radius: 1px solid #ddd;
+
+}
+h1{
+    color: blue;
+    margin-bottom: 30px;
+}
+div{
+    font-family: 'Times New Roman', Times, serif;
+
+.input type{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+    font-size: 14px;
+
+}
+
+    
+}
+form{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    align-content: center;
+    color: rgb(234, 21, 21);
+}
